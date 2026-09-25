@@ -83,7 +83,6 @@ The Streamlit dashboard provides:
 - Machine Learning
 - RAG
 - Streamlit
-
 ## 📂 Project Structure
 
 ```text
@@ -97,9 +96,31 @@ Tamil-Nadu-Government-Citizen-Chatbot/
 ├── model_performance.csv
 ├── svm_tuning_results.csv
 └── rf_tuning_results.csv
-
 pip install -r requirements.txt
 streamlit run app.py
 
+Then:
+
+```text
+## 🚀 Live Demo
 
 [Open Tamil Nadu Government Citizen Chatbot](https://tamil-nadu-government-citizen-chatbot-je8ut6wjfoo83ryt5ka4gr.streamlit.app)
+
+
+## 📌 Key Features
+
+- Government service information
+- Intent-based query classification
+- Document and eligibility assistance
+- ML model comparison
+- Hyperparameter tuning
+- RAG-based information retrieval
+- Interactive Streamlit dashboard
+- Tamil, Tanglish and English query support
+
+## 👩‍💻 Author
+
+**R. Rathipriya**
+
+M.Sc Data Analytics  
+Bharathiar University
