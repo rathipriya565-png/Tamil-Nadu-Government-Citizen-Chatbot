@@ -1,6 +1,6 @@
 # Tamil Nadu Government Citizen Chatbot
 
-## 📌 Project Overview
+## 📌 Project OvervieW
 
 The Tamil Nadu Government Citizen Chatbot is an ML-enabled RAG-based application designed to help citizens find information about Tamil Nadu government services.
 
