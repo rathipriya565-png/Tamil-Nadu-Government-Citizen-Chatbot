@@ -101,14 +101,5 @@ Tamil-Nadu-Government-Citizen-Chatbot/
 pip install -r requirements.txt
 streamlit run app.py
 
-### Step 4
-
-Paste pannitu கீழே **Commit changes** click pannu.
-
-**Commit message:**
-
-```text
-Update project README
-## 🚀 Live Demo
 
 [Open Tamil Nadu Government Citizen Chatbot](https://tamil-nadu-government-citizen-chatbot-je8ut6wjfoo83ryt5ka4gr.streamlit.app)
